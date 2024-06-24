@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Fangrui, a 4th-year Computer Engineering student from the University of Waterloo, and I'm an aspiring Software Engineer. 
+
+Always looking for new opportunities and cool projects to work on! Check out my GitHub for some cool ones already!
+
+📫 How to reach me: fangrui.zhang@uwaterloo.ca  +1 604-362-9782
 <!--
 **johnzhang3410/johnzhang3410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
