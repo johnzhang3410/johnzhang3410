@@ -5,8 +5,6 @@ I'm Fangrui, a 4th-year Computer Engineering student from the University of Wate
 Always looking for new opportunities and cool projects to work on! Check out my repos for some cool ones already!
 
 📫 How to reach me: fangrui.zhang@uwaterloo.ca  +1 604-362-9782
-
-I included my Leetcode stats down below (to remind myself that I need to do more!)
 <!--
 **johnzhang3410/johnzhang3410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
