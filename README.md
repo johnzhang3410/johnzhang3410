@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Leetcode Status: (Need to Grind More)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/johnzhang3410)
