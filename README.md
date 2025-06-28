@@ -4,7 +4,7 @@ I'm Fangrui, a Computer Engineering alumnus from the University of Waterloo, and
 
 I'm always looking for new opportunities and cool projects to work on! Check out my repos for some cool ones already! 
 
-Let's connect if we haven't already! [LinkedIn profile](https://www.linkedin.com/in/fangruizhang).
+Let's connect if we haven't already! Here is my [LinkedIn](https://www.linkedin.com/in/fangruizhang).
 
 📫 How to reach me: fangrui.zhang@uwaterloo.ca  +1 604-362-9782
 <!--
